@@ -41,6 +41,21 @@ Run the program:
 python recommendation.py
 ```
 
+## Sample Outputs
+
+### AI / Machine Learning Recommendation
+
+![AI ML Recommendation](screenshots/ai-ml-recommendation.png)
+
+### SQL / Database Recommendation
+
+![SQL Recommendation](screenshots/sql-recommendation.png)
+
+### No Matching Recommendation
+
+![No Match](screenshots/no-match.png)
+
+
 ## Author
 
 Khawaja Muhammad Ali Ghauri
