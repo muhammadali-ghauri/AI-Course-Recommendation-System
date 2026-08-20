@@ -33,6 +33,13 @@ Install the required library:
 
 ```bash
 pip install scikit-learn
+```
+
+Run the program:
+
+```bash
+python recommendation.py
+```
 
 ## Author
 
